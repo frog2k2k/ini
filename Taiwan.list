@@ -6,3 +6,6 @@ DOMAIN-KEYWORD,udn
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,udn.com.tw
+
