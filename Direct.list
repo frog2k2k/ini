@@ -506,7 +506,7 @@ DOMAIN-SUFFIX,qihucdn.com
 DOMAIN-SUFFIX,qin.io
 DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qiniucdn.com
-# DOMAIN-SUFFIX,qiniudn.com
+DOMAIN-SUFFIX,qiniudn.com
 DOMAIN-SUFFIX,qiushibaike.com
 DOMAIN-SUFFIX,quanmin.tv
 DOMAIN-SUFFIX,qunar.com
